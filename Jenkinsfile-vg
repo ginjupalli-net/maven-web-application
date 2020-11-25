@@ -1,5 +1,5 @@
 node {
-properties([[$class: 'JiraProjectProperty'], [$class: 'JobLocalConfiguration', changeReasonComment: ''], pipelineTriggers([pollSCM('* * * * * ')])])
+
     def MVN_HOME= tool name: "vgmaven"
     stage('CheckoutCode')
     {
