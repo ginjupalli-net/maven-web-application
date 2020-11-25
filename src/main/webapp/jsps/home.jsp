@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to SOL-IT Inc.</h1>
-<h1 align="center"> Welcome to Sol-IT Inc......This is Maven-SonarQube-Tomcat-Nexus-Jenkins CI/CD Pipeline Project - Build - using WebHooks Dt: 2020/11/25--PoLLSCM.</h1>
+<h1 align="center"> Welcome to Sol-IT Inc......This is Maven-SonarQube-Tomcat-Nexus-Jenkins CI/CD Pipeline Project - Build - using WebHooks Dt: 2020/11/25--4:04pm.</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
